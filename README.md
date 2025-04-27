@@ -24,6 +24,8 @@ The EV industry faces a significant challenge: limited and inconvenient charging
 EVolve Chargemates offers a decentralized, community-driven solution by enabling homeowners to share their charging stations, massively expanding the charging network and making EV adoption easier and more appealing.
 
 🌟 Future Scope
+
+
 Dynamic pricing based on demand and traffic patterns
 
 Integration with renewable energy sources (like solar panels)
